@@ -1,6 +1,22 @@
 # Simple Store Insights
 Database system for searching item price and checking personal spending.
 
+## Guidelines to setup
+
+### Prerequisites
+
+- Python should be installed: `Python version >= 3.9.6`
+
+### Run the APP
+```
+python <file_path>/main.py
+```
+
+## DEMO Images
+
+<img src="/demo/main-screen.png" width=340px /><img src="/demo/delete-item.png" width=340px />
+<img src="/demo/spend-screen.png" width=340px /><img src="/demo/edit-popup.png" width=340px />
+<img src="/demo/edit-screen.png" width=340px />
 
 #### `PersonalSpend` class:
 
